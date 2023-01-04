@@ -1,0 +1,4 @@
+node_modules
+testwallet.json
+src/cache
+scripts/cache
